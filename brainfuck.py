@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-#Brainfuck interpeter
+#Brainfuck interpreter
 #
 
 import sys
